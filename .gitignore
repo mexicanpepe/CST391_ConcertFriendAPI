@@ -1,0 +1,18 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Environment variables
+.env
+
+# npm-debug files
+npm-debug.log*
+
+# Typescript output folder
+dist/
+
+# OS-specific files (optional)
+.DS_Store
